@@ -1,0 +1,12 @@
+First, explore the dataset and give me a free-flowing narrative of what you observe. Stop and give me this exploration before moving on.
+Then, in a separate section, give me a narrative across hourly, daily, weekly, and monthly/seasonal patterns, plus spikes, clusters, and non-time-based trends. Back every observation with concrete numbers, dates, or percentages from the data. Flat or noisy data is a valid finding — say so when a pattern isn't really there.
+After that go through all the narrative, summarize in this table:
+Columns: Trend Category | Status (Yes/No) If the trend is partial say NO | Details (3–6 explanatory sentences written in analytical narrative style)
+Rows:
+* Hourly Trend — peak/trough hours and whether the cycle is consistent day-to-day.
+* Daily Trend — important days with full dates (e.g., "Tuesday, July 10, 2024").
+* Weekly Cycle Trend — strongest/weakest days of the week and weekday vs. weekend contrast.
+* Monthly/Seasonal Trend — shifts tied to specific months or seasons.
+* Spike/Cluster Pattern — unusual bursts. Give an exact range (e.g., "March 14–18, 2024" or "2:00 AM–5:00 AM") with the count in that range.
+* Other Non-Time Trends — Non-obvious patterns unrelated to time. Use exactly this format: "Count: [number of distinct non-time trends identified] — (1) [Name]: [Description]; (2) [Name]: [Description]."
+Rules: Status must be exactly "Yes" or "No." If No, explain what you checked and why it didn't qualify. Every Yes/No must match what you said in the narrative.

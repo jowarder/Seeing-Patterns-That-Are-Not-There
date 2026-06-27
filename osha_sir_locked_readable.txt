@@ -1,0 +1,1602 @@
+OSHA Severe Injury Report Dataset — 200 incidents
+======================================================================
+
+ID: 20000
+Date: 2024-01-05
+Time: 12:04
+Location: FENTON, MISSOURI
+Event type: Caught, entangled in running powered equipment  normal operation
+Nature of injury: Amputations, avulsions, enucleations  unspecified
+Narrative: An employee was bending 16-gauge metal using a brake machine when their right thumb got caught in the machine's pressing mechanism, resulting in a partial thumb tip amputation. The employee was wearing personal protective equipment at the time of the incident.
+
+ID: 20001
+Date: 2024-01-06
+Time: 02:24
+Location: GETTYSBURG, PENNSYLVANIA
+Event type: Struck by rolling powered vehicle or machinery
+Nature of injury: Traumatic injuries or exposures  unspecified
+Narrative: An employee was operating the walk/ride powered pallet jack in the cooler and became startled which caused him to step off the powered pallet jack while it was in operation and his hand was still on the operating controls. The employee's left ankle was run over by the powered pallet jack resulting…
+
+ID: 20002
+Date: 2024-01-07
+Time: 12:40
+Location: WEST PALM BEACH, FLORIDA
+Event type: Direct exposure to electricity  220 volts or less
+Nature of injury: Electrocution, electric shock
+Narrative: An employee was installing ceiling trim and received an electrical shock from electrical wiring within a ceiling stud.
+
+ID: 20003
+Date: 2024-01-08
+Time: 17:45
+Location: BEDFORD CORNERS, NEW YORK
+Event type: Other fall to lower level  6 to 30 feet
+Nature of injury: Fractures
+Narrative: An employee fell off a ladder about midway up or approximately 10 feet from the ground while cleaning the roof and gutters, resulting in a fracture.
+
+ID: 20004
+Date: 2024-01-10
+Time: 02:21
+Location: LAUDERDALE LAKES, FLORIDA
+Event type: Struck by door, gate, window
+Nature of injury: Amputations, avulsions, enucleations  unspecified
+Narrative: A door closed on an employee's finger, causing an amputation to the fingertip.
+
+ID: 20005
+Date: 2024-01-16
+Time: 21:53
+Location: TONAWANDA, NEW YORK
+Event type: Caught, entangled in running powered equipment  normal operation
+Nature of injury: Amputations involving bone loss
+Narrative: An employee was cutting a door with a circular saw and his right little finger was amputated at the second knuckle.
+
+ID: 20006
+Date: 2024-01-19
+Time: 00:38
+Location: AURORA, COLORADO
+Event type: Pedestrian struck by forward-moving vehicle in road work zone
+Nature of injury: Fractures
+Narrative: An employee was walking across the construction zone to get more material when they were struck by a tractor trailer that was carrying materials. The employee sustained multiple fractured ribs, fractured vertebrae, and a hip injury.
+
+ID: 20007
+Date: 2024-01-20
+Time: 00:25
+Location: HOUSTON, TEXAS
+Event type: Exposure to environmental heat  indoor
+Nature of injury: Effects of heat  unspecified
+Narrative: An employee was hospitalized and treated for heat stress.
+
+ID: 20008
+Date: 2024-01-20
+Time: 12:54
+Location: LUFKIN, TEXAS
+Event type: Struck by running powered equipment  during maintenance, cleaning, testing
+Nature of injury: Avulsions, enucleations without bone loss
+Narrative: An employee was cleaning a fondant machine and amputated part of his left middle fingertip without bone loss. The tissue was surgically reattached.
+
+ID: 20009
+Date: 2024-01-21
+Time: 06:35
+Location: POMPANO BEACH, FLORIDA
+Event type: Struck by falling object  unspecified
+Nature of injury: Fractures
+Narrative: An employee was assisting with hoisting up a hydraulic cylinder when the cylinder slipped and fell on their foot, fracturing a toe.
+
+ID: 20010
+Date: 2024-01-25
+Time: 08:39
+Location: LUBBOCK, TEXAS
+Event type: Collapse, engulfment  open trench or excavation
+Nature of injury: Fractures
+Narrative: Employees were testing and repairing a sewer line while in a trench that was approximately 3.5 feet deep. Employee 1 was standing and employee 2 was squatting down to work on the line when the trench walls collapsed. Employee 2 was engulfed by the dirt. Both employees were transported to the hospit…
+
+ID: 20011
+Date: 2024-01-31
+Time: 22:11
+Location: EL PASO, TEXAS
+Event type: Fall on same level due to slip or trip
+Nature of injury: Fractures
+Narrative: An employee was injured inside a car wash tunnel that was being built when he stepped on a trench grate and his leg fell through, causing a fracture to his left leg.
+
+ID: 20012
+Date: 2024-02-02
+Time: 02:26
+Location: LARGO, FLORIDA
+Event type: Fall on same level due to slip or trip
+Nature of injury: Fractures
+Narrative: An employee was walking out of the freezer, slipped, and fell to the floor resulting in a fractured ankle.
+
+ID: 20013
+Date: 2024-02-04
+Time: 18:54
+Location: CHICKASHA, OKLAHOMA
+Event type: Struck by running powered equipment  during maintenance, cleaning, testing
+Nature of injury: Fractures
+Narrative: Two employees were troubleshooting a palletizer. The injured employee was clearing the work area when the machine was cycled and their right leg was caught in the machine. The employee sustained a fractured ankle.
+
+ID: 20014
+Date: 2024-02-04
+Time: 19:19
+Location: MIAMI, FLORIDA
+Event type: Collision with stationary object, nonroadway
+Nature of injury: Cuts, lacerations, punctures without injury to internal structures
+Narrative: An employee was operating a reach truck when their left foot was crushed between the reach truck and a station. The employee was wearing safety shoes at the time of the incident that contributed to the laceration of the employee's left foot. The incident occurred during training.
+
+ID: 20015
+Date: 2024-02-06
+Time: 06:36
+Location: NORTH HOOSICK, NEW YORK
+Event type: Struck by running powered equipment  unspecified
+Nature of injury: Amputations involving bone loss
+Narrative: An employee was working on a grain auger and sustained amputation of their right index finger.
+
+ID: 20016
+Date: 2024-02-07
+Time: 05:05
+Location: TUSCALOOSA, ALABAMA
+Event type: Exposure to electric arc
+Nature of injury: Electrical burns  any degree
+Narrative: An employee was testing voltage when an arc flash occurred. The employee sustained burns to their face.
+
+ID: 20017
+Date: 2024-02-08
+Time: 12:45
+Location: NEWPORT, NEW HAMPSHIRE
+Event type: Struck by running powered equipment  during maintenance, cleaning, testing
+Nature of injury: Amputations, avulsions, enucleations  unspecified
+Narrative: An employee was dislodging a part that was stuck in the shot blasting machine when the part released and shifted, catching the employee's left middle finger between the part and the belt of the machine. The employee pulled his hand away and sustained a fingertip amputation.
+
+ID: 20018
+Date: 2024-02-08
+Time: 18:12
+Location: SAINT ALBANS, WEST VIRGINIA
+Event type: Non-venomous animal bites  except "bugs"
+Nature of injury: Fractures and surface, flesh wounds
+Narrative: An employee was delivering mail when they were attacked by a large dog, resulting in a fracture to their right leg and bite wounds on their right arm.
+
+ID: 20019
+Date: 2024-02-09
+Time: 22:43
+Location: ROCHESTER, NEW YORK
+Event type: Fall on same level due to slip or trip
+Nature of injury: Fractures
+Narrative: An employee was checking refer units on a truck in the docking area when he slipped on ice and fell to the concrete ground, suffering a broken femur.
+
+ID: 20020
+Date: 2024-02-12
+Time: 06:27
+Location: YERMO, CALIFORNIA
+Event type: Nonroadway noncollision  vehicle overturn
+Nature of injury: Fractures
+Narrative: Two employees were performing maintenance on a ground mobility vehicle when it overturned on a military test track. One employee was hospitalized with a compression fracture of his spine and the second was hospitalized due to multiple injuries to the right side of his body.
+
+ID: 20021
+Date: 2024-02-12
+Time: 20:38
+Location: INDEPENDENCE, MISSOURI
+Event type: Nonroadway noncollision  fall or jump from moving vehicle
+Nature of injury: Fractures
+Narrative: An employee was hanging a cable lasher on fiber lines while in an elevated bucket truck. The crew moved to the next setup and the employee was ejected out of the bucket, falling to the ground approximately 15 feet below. The employee suffered a broken right foot and ankle, a bruised stomach, and a…
+
+ID: 20022
+Date: 2024-02-13
+Time: 08:42
+Location: BIRMINGHAM, ALABAMA
+Event type: Fall on same level  unspecified
+Nature of injury: Traumatic injuries or exposures  unspecified
+Narrative: An employee was walking into a building from the employee parking lot when they fell to the ground, resulting in a right knee injury.
+
+ID: 20023
+Date: 2024-02-13
+Time: 19:44
+Location: FORT WORTH, TEXAS
+Event type: Other fall to lower level  6 to 30 feet
+Nature of injury: Fractures
+Narrative: An employee fell approximately six feet from a portable ladder to the ground and fractured their left heel. The employee was hospitalized.
+
+ID: 20024
+Date: 2024-02-14
+Time: 14:10
+Location: BILLINGS, MONTANA
+Event type: Other fall to lower level  less than 6 feet
+Nature of injury: Traumatic injuries or exposures  unspecified
+Narrative: An employee was on a ladder while retrieving stocked goods from a top shelf when she fell from the bottom rung of the ladder to the cement floor, resulting in a right hip injury that required hospitalization.
+
+ID: 20025
+Date: 2024-02-14
+Time: 14:57
+Location: PHILADELPHIA, PENNSYLVANIA
+Event type: Pedestrian struck by vehicle in nonroadway area  unspecified
+Nature of injury: Fractures
+Narrative: An employee was struck in the foot by the tire of a skid steer equipped with forks in the front, knocking him down and fracturing his tibia, fibula, and hip. He was hospitalized requiring surgery.
+
+ID: 20026
+Date: 2024-02-15
+Time: 07:03
+Location: BIRMINGHAM, ALABAMA
+Event type: Other fall to lower level  unspecified
+Nature of injury: Fractures
+Narrative: An employee fell while walking down stairs and suffered a broken ankle.
+
+ID: 20027
+Date: 2024-02-17
+Time: 23:12
+Location: PITTSBURGH, PENNSYLVANIA
+Event type: Other fall to lower level  unspecified
+Nature of injury: Disc disorders, herniated disc
+Narrative: An employee fell while descending stairs, suffering a herniated disk in the neck.
+
+ID: 20028
+Date: 2024-02-18
+Time: 05:55
+Location: FORT LAUDERDALE, FLORIDA
+Event type: Struck by object dropped by person
+Nature of injury: Fractures
+Narrative: Employee 1 was lifting a bundle of rebar from a flatbed when the bundle fell onto employee 2's right ankle, resulting in a fracture.
+
+ID: 20029
+Date: 2024-02-18
+Time: 08:23
+Location: FRISCO, COLORADO
+Event type: Fall from skis, snowboard, sled
+Nature of injury: Fractures
+Narrative: An employee was skiing down a hill when her ski caught in the snow. She fell, suffering a broken right tibia.
+
+ID: 20030
+Date: 2024-02-19
+Time: 05:54
+Location: BROOKLYN, NEW YORK
+Event type: Injured by object pushed or pulled by person
+Nature of injury: Amputations, avulsions, enucleations  unspecified
+Narrative: An employee was making a repair to a fan that was secured to a shipping pallet with bolts. He removed the shipping bolts and stood the fan vertically on the pallet when he lost his grip and his right index fingertip was caught between the fan flange and the shipping pallet. He sustained a fingertip…
+
+ID: 20031
+Date: 2024-02-20
+Time: 06:59
+Location: NAPERVILLE, ILLINOIS
+Event type: Collision with stationary object, nonroadway
+Nature of injury: Amputations involving bone loss
+Narrative: An employee was driving a stand-up forklift through a demising wall pass-through when their left foot became caught between the forklift and a bollard. The employee's foot was crushed and amputated.
+
+ID: 20032
+Date: 2024-02-21
+Time: 03:43
+Location: ATHENS, GEORGIA
+Event type: Other fall to lower level  6 to 30 feet
+Nature of injury: Fractures
+Narrative: A crew was tearing off a section of roof over a concrete deck. An employee fell 25-30 feet off the roof edge that had a permanent railing for safety provided by the hospital. The employee suffered fractures and multiple injuries. The employee was hospitalized.
+
+ID: 20033
+Date: 2024-02-21
+Time: 08:44
+Location: DE KALB, MISSISSIPPI
+Event type: Fall on same level due to slip or trip
+Nature of injury: Fractures
+Narrative: An employee tripped on a floor mat in the kitchen and fell, fracturing their left hip.
+
+ID: 20034
+Date: 2024-02-22
+Time: 15:46
+Location: NORWOOD, OHIO
+Event type: Exposure to environmental heat  outdoor
+Nature of injury: Effects of heat  unspecified
+Narrative: An employee was delivering mail on a residential route and sustained heat stress requiring hospitalization.
+
+ID: 20035
+Date: 2024-02-22
+Time: 15:59
+Location: LUVERNE, NORTH DAKOTA
+Event type: Struck by running powered equipment  n.e.c.
+Nature of injury: Amputations involving bone loss
+Narrative: An employee was operating a hydraulic torque tool on a main bearing. The tool activated before the torque head was on the bolt. The employee's left little finger became caught between the reaction arm and the main bearing. The finger was crushed and the fingertip was amputated.
+
+ID: 20036
+Date: 2024-02-23
+Time: 11:59
+Location: FORT LAUDERDALE, FLORIDA
+Event type: Pedestrian struck by vehicle in nonroadway area  unspecified
+Nature of injury: Fractures and surface, flesh wounds
+Narrative: An employee was loading bags into a baggage cart when they were struck by a baggage cart. The employee sustained a severe laceration and a fractured left femur.
+
+ID: 20037
+Date: 2024-02-24
+Time: 02:07
+Location: KENOSHA, WISCONSIN
+Event type: Struck by running powered equipment  unspecified
+Nature of injury: Amputations involving bone loss
+Narrative: An employee was checking RPMs on a part when their hand was pulled into the belt and pulley resulting in amputation of the right middle finger.
+
+ID: 20038
+Date: 2024-02-26
+Time: 05:20
+Location: BEDFORD PARK, ILLINOIS
+Event type: Struck by running powered equipment  during maintenance, cleaning, testing
+Nature of injury: Amputations involving bone loss
+Narrative: An employee was brushing something off a metal coil at the recoiler of a slitter machine. His glove was caught and pulled into a coil separator, and the separator disk amputated his right little finger. The machine was unguarded at the time.
+
+ID: 20039
+Date: 2024-02-27
+Time: 16:27
+Location: REXBURG, IDAHO
+Event type: Caught or wedged between objects  nonrunning
+Nature of injury: Amputations involving bone loss
+Narrative: An employee reached around a gate in order to open it when his fingers got stuck in the latch, resulting in a partial amputation of one finger at the knuckle.
+
+ID: 20040
+Date: 2024-03-01
+Time: 14:01
+Location: WASHINGTON, DISTRICT OF COLUMBIA
+Event type: Contact with hot objects or substances
+Nature of injury: Thermal burns  second degree
+Narrative: An employee was using diesel fuel in the asphalt mixing drum to encourage stuck asphalt to move. The diesel vaporized when it touched the hot drum surface and the diesel vapor caused first- and second-degree burns.
+
+ID: 20041
+Date: 2024-03-03
+Time: 16:37
+Location: FORT WORTH, TEXAS
+Event type: Fall on same level due to slip or trip
+Nature of injury: Fractures
+Narrative: An employee tripped and fell in an inpatient therapy gym, falling to the concrete floor and suffering a broken right femur.
+
+ID: 20042
+Date: 2024-03-04
+Time: 22:03
+Location: DALLAS, TEXAS
+Event type: Struck by running powered equipment  during maintenance, cleaning, testing
+Nature of injury: Amputations, avulsions, enucleations  unspecified
+Narrative: An employee was performing repairs on a crimping machine when their thumb and index finger were crushed in the crimping mechanism. The employee sustained an amputation to the finger.
+
+ID: 20043
+Date: 2024-03-07
+Time: 10:16
+Location: VALLEY, NEBRASKA
+Event type: Caught, entangled in running powered equipment  normal operation
+Nature of injury: Amputations involving bone loss
+Narrative: An employee had just finished unloading a train car and was using a drill to operate a winch attached to the cables that secure the load while in transit. Their right glove was caught by the drill bit and the employee sustained amputations of their little finger at the second knuckle and their ring…
+
+ID: 20044
+Date: 2024-03-14
+Time: 02:49
+Location: BELK, ALABAMA
+Event type: Injured by object held or wielded by person
+Nature of injury: Nonfatal 'crushing' injuries
+Narrative: An employee was helping repair a sawmill trimmer. The employee transferred a pry bar from their right hand to their left hand, then turned, at which point the employee's left middle fingertip was pinched between the pry bar and a saw box. The fingertip was crushed at the nailbed, but not fractured;…
+
+ID: 20045
+Date: 2024-03-15
+Time: 01:55
+Location: OPELIKA, ALABAMA
+Event type: Struck by running powered equipment  during maintenance, cleaning, testing
+Nature of injury: Fractures
+Narrative: An employee was removing debris from the bottom mold of a hydraulic press. The employee was beyond the light curtains when they were crushed by the upper die. The employee sustained fractures to their back, hip, and legs, as well as multiple bruises.
+
+ID: 20046
+Date: 2024-03-25
+Time: 01:17
+Location: WACO, TEXAS
+Event type: Contact incidents  unspecified
+Nature of injury: Amputations involving bone loss
+Narrative: An employee was disconnecting a trailer from a tractor and attaching a push bar when the bar pin pushed up and pinched their right index finger, resulting in an amputation.
+
+ID: 20047
+Date: 2024-03-26
+Time: 02:53
+Location: EAST GRANBY, CONNECTICUT
+Event type: Collision with stationary object, nonroadway
+Nature of injury: Traumatic injuries or exposures  unspecified
+Narrative: An employee was driving a three-wheel cart through an interconnecting tunnel when the cart veered into a wall, pinning his left leg against the wall. The employee sustained an injury to the leg.
+
+ID: 20048
+Date: 2024-03-26
+Time: 03:30
+Location: BROOKHAVEN, MISSISSIPPI
+Event type: Struck by running powered equipment  unspecified
+Nature of injury: Multiple severe wounds and internal injuries
+Narrative: An employee was training to operate the planer mill sorter. While standing on the upper catwalk he noticed that a bin was malfunctioning. As he was cleaning the photo eye, his left arm was caught on the framework of another bin as it was coming back to the up position, breaking and degloving his le…
+
+ID: 20049
+Date: 2024-03-27
+Time: 14:50
+Location: SANDUSKY, OHIO
+Event type: Fall on same level due to slip or trip
+Nature of injury: Fractures
+Narrative: An employee was walking into work when they slipped on ice and fell. The employee suffered a hip fracture.
+
+ID: 20050
+Date: 2024-03-27
+Time: 15:34
+Location: AUSTIN, TEXAS
+Event type: Other fall to lower level  less than 6 feet
+Nature of injury: Fractures
+Narrative: An employee was working from a track ladder attached to shelves. As she was reaching to scan the barcode on a box, she fell to the ground about 5 feet below, landing on her left side and suffering a broken left shoulder and wrist.
+
+ID: 20051
+Date: 2024-03-31
+Time: 17:01
+Location: MILTON, PENNSYLVANIA
+Event type: Caught, entangled in running powered equipment  normal operation
+Nature of injury: Amputations involving bone loss
+Narrative: An employee was cutting parts for toolboxes using a metal shear when the shear actuated and his right thumb was amputated to the base of the thumb.
+
+ID: 20052
+Date: 2024-04-01
+Time: 06:37
+Location: BOSTON, MASSACHUSETTS
+Event type: Caught, entangled in running powered equipment  normal operation
+Nature of injury: Amputations, avulsions, enucleations  unspecified
+Narrative: A carpenter utilizing table saw amputated the tip of their left thumb.
+
+ID: 20053
+Date: 2024-04-02
+Time: 17:43
+Location: SOUTH HOLLAND, ILLINOIS
+Event type: Struck by running powered equipment  unspecified
+Nature of injury: Amputations, avulsions, enucleations  unspecified
+Narrative: An employee was using a table saw when they sustained a left index fingertip amputation.
+
+ID: 20054
+Date: 2024-04-07
+Time: 12:36
+Location: JEFFERSONVILLE, OHIO
+Event type: Fall to lower level resulting in exposure or contact  less than 6 feet
+Nature of injury: Bruises, contusions
+Narrative: An employee was loading something into their truck while at a truck stop when they slipped on the truck steps and fell. The employee's head struck a metal phone box and their back struck a concrete block. The employee suffered a head contusion and was hospitalized.
+
+ID: 20055
+Date: 2024-04-09
+Time: 00:22
+Location: CHAPARRAL, NEW MEXICO
+Event type: Exposure through intact tissue
+Nature of injury: Traumatic injuries or exposures  unspecified
+Narrative: An employee was troubleshooting a diesel fuel system on a military vehicle when diesel fuel spilled onto the employee.
+
+ID: 20056
+Date: 2024-04-14
+Time: 04:58
+Location: MUNCY, PENNSYLVANIA
+Event type: Fall on same level  n.e.c.
+Nature of injury: Fractures
+Narrative: The employee was using a long prybar to flip a steel track over so it could be installed on a bulldozer. The employee inserted the prybar into the track chain and began to lift. When the weight of the track went over the center, the employee lost his balance. He fell to the concrete shop floor, bre…
+
+ID: 20057
+Date: 2024-04-14
+Time: 20:08
+Location: DALLAS, TEXAS
+Event type: Pedestrian struck by vehicle or object propelled by another vehicle in nonroadway area
+Nature of injury: Fractures
+Narrative: An employee was using an order picker. A forklift was being maneuvered around the order picker when its carriage caught the edge of a pallet and forced a stack of pallets forward. The employee was pinned against the order picker by the pallets and suffered a broken left leg.
+
+ID: 20058
+Date: 2024-04-15
+Time: 11:09
+Location: MIAMI, FLORIDA
+Event type: Fall to lower level from collapsing structure or equipment  6 to 30 feet
+Nature of injury: Closed trauma involving internal organs, major blood vessels
+Narrative: An employee was up a ladder, moving sprinkler heads. The ladder slipped and the employee fell to the ground 8-10 feet below. The employee suffered a collapsed lung and bruised ribs.
+
+ID: 20059
+Date: 2024-04-18
+Time: 02:26
+Location: SEBASTOPOL, MISSISSIPPI
+Event type: Stabbing, cutting, slashing by other person
+Nature of injury: Cuts, lacerations, punctures without injury to internal structures
+Narrative: The injured employee had been hanging live bird. A physical altercation occurred with a co-worker. The co-worker stabbed the injured employee with a knife causing multiple lacerations to the abdomen.
+
+ID: 20060
+Date: 2024-04-18
+Time: 15:45
+Location: BRYAN, TEXAS
+Event type: Caught, entangled in running powered equipment  normal operation
+Nature of injury: Traumatic injuries or exposures  unspecified
+Narrative: An employee was moving cabinets using a conveyor belt when his right foot got caught between two conveyor belts, resulting in an injury that required hospitalization.
+
+ID: 20061
+Date: 2024-04-20
+Time: 03:31
+Location: DAYTON, OHIO
+Event type: Exposure to environmental heat  outdoor
+Nature of injury: Effects of heat  n.e.c.
+Narrative: An employee was performing regular job duties when they began to feel unwell. The employee was hospitalized for dehydration due to heat.
+
+ID: 20062
+Date: 2024-04-23
+Time: 13:58
+Location: DENVER, COLORADO
+Event type: Collision with stationary object, nonroadway
+Nature of injury: Nonfatal 'crushing' injuries
+Narrative: An employee was operating a standing forklift when he struck a guard post, crushing his left foot. The employee was hospitalized.
+
+ID: 20063
+Date: 2024-04-25
+Time: 02:02
+Location: RAINBOW CITY, ALABAMA
+Event type: Fall on same level due to slip or trip
+Nature of injury: Fractures
+Narrative: An employee was mopping a client's floor when they slipped and fell on the wet floor. The employee sustained broken bones and required surgery.
+
+ID: 20064
+Date: 2024-04-26
+Time: 09:14
+Location: CARROLLTON, TEXAS
+Event type: Other fall to lower level  unspecified
+Nature of injury: Fractures
+Narrative: An employee was removing plastic from the machine and handing it to another employee when they lost balance and fell from the platform to the floor and broke a wrist.
+
+ID: 20065
+Date: 2024-04-29
+Time: 20:43
+Location: LYON STATION, PENNSYLVANIA
+Event type: Slip, trip, stumble while stepping between levels
+Nature of injury: Fractures
+Narrative: An employee was exiting a truck when their foot slipped and struck the ground, resulting in compound fractures of their right tibia and fibula.
+
+ID: 20066
+Date: 2024-04-30
+Time: 04:19
+Location: MIDLAND, TEXAS
+Event type: Fall to lower level resulting from exposure or contact  unspecified
+Nature of injury: Fractures
+Narrative: An employee was performing a cable installation at a residence. The cable was hanging over the road between two poles when a car drove along the road, hitting the cable and pulling the employee off the ladder. The employee suffered fractures to the hand, hip, and leg.
+
+ID: 20067
+Date: 2024-05-02
+Time: 02:40
+Location: DENTON, TEXAS
+Event type: Struck by running powered equipment  during maintenance, cleaning, testing
+Nature of injury: Amputations involving bone loss
+Narrative: An employee was organizing materials and clearing debris from the operating area when the machine activated, resulting in the amputation of two fingers.
+
+ID: 20068
+Date: 2024-05-13
+Time: 07:03
+Location: PLEASANT HILL, MISSOURI
+Event type: Caught, entangled in running powered equipment  normal operation
+Nature of injury: Amputations, avulsions, enucleations  unspecified
+Narrative: An employee was operating a brake press and crushed their left middle finger between the back gauge and the die resulting in amputation of the fingertip.
+
+ID: 20069
+Date: 2024-05-14
+Time: 02:23
+Location: TAMPA, FLORIDA
+Event type: Other fall to lower level  unspecified
+Nature of injury: Soft tissue injuries  unspecified
+Narrative: An employee was talking to a patient when he lost his balance and fell down the stairs. The employee sustained injuries to both patellar tendons and required surgery.
+
+ID: 20070
+Date: 2024-05-14
+Time: 12:13
+Location: NEWARK, NEW JERSEY
+Event type: Struck by running powered equipment  during maintenance, cleaning, testing
+Nature of injury: Fractures
+Narrative: An employee was inspecting a conveyor belt for mechanical issues when his right arm became caught between a roller and the belt. The employee was hospitalized with fractures to his right hand.
+
+ID: 20071
+Date: 2024-05-16
+Time: 17:49
+Location: RAMONA, KANSAS
+Event type: Other fall to lower level  unspecified
+Nature of injury: Fractures
+Narrative: An employee had just unloaded feed from a truck and blew out the empty truck with an air hose while approximately 11 feet above the ground. The employee was then descending the attached ladder when they fell to the ground, sustaining compound fractures to their T1, T2, and T3 vertebrae.
+
+ID: 20072
+Date: 2024-05-16
+Time: 22:49
+Location: EAST GREENBUSH, NEW YORK
+Event type: Slip, trip, stumble while stepping between levels
+Nature of injury: Fractures
+Narrative: An employee was exiting his delivery truck at the loading dock when they slipped on ice on the ground and fell, breaking their right hip.
+
+ID: 20073
+Date: 2024-05-17
+Time: 17:56
+Location: INDEPENDENCE, MISSOURI
+Event type: Exposure to environmental heat  outdoor
+Nature of injury: Heat stroke, syncope
+Narrative: An employee suffered heat stroke while clearing brush and debris from a roadside.
+
+ID: 20074
+Date: 2024-05-18
+Time: 21:12
+Location: RAPID CITY, SOUTH DAKOTA
+Event type: Caught, entangled in running powered equipment  normal operation
+Nature of injury: Amputations, avulsions, enucleations  unspecified
+Narrative: An employee was observing a forklift under operation when the boards shifted and his right hand became pinched between the supports of the forklift attachment and the forklift tine. The employee sustained a fingertip amputation.
+
+ID: 20075
+Date: 2024-05-20
+Time: 07:04
+Location: LONGWOOD, FLORIDA
+Event type: Compressed between running equipment and other object(s)
+Nature of injury: Cuts, lacerations, punctures without injury to internal structures
+Narrative: An employee was retrieving packages from a conveyor belt. A large package came down the slide and crushed her right little finger, lacerating it.
+
+ID: 20076
+Date: 2024-05-20
+Time: 22:37
+Location: SHINER, TEXAS
+Event type: Walked or ran into stationary object
+Nature of injury: Cuts, lacerations, punctures without injury to internal structures
+Narrative: An employee was closing a picnic table umbrella. When they moved out of the way of the closing umbrella, they lacerated their lower right leg on the table.
+
+ID: 20077
+Date: 2024-05-24
+Time: 01:38
+Location: DEER PARK, TEXAS
+Event type: Flash fire
+Nature of injury: Thermal burns  second degree
+Narrative: An employee was preparing to sample a cylinder containing approximately 700 to 1,000 cubic centimeters of liquefied petroleum gas (LPG) to run an analysis for sulfur content. The employee was loading the sample into the testing instrument when he noticed it was leaking at the fitting. Some of the L…
+
+ID: 20078
+Date: 2024-05-25
+Time: 12:19
+Location: MIAMI GARDENS, FLORIDA
+Event type: Struck by falling object  unspecified
+Nature of injury: Cerebral and other intracranial hemorrhages without skull fracture
+Narrative: An employee was pulling product to restock when they were struck in the head by an overhead ceiling tile, resulting in a head contusion and internal bleeding.
+
+ID: 20079
+Date: 2024-05-31
+Time: 00:01
+Location: DALLAS, TEXAS
+Event type: Compressed between running equipment and other object(s)
+Nature of injury: Fractures
+Narrative: An employee was preparing to conduct maintenance on a passenger boarding bridge (PBB) and was ascending on a scissor lift. The employee had his left hand on the scissor lift railing when the railing struck against the PBB and crushed his index finger. The employee sustained a fractured finger.
+
+ID: 20080
+Date: 2024-06-01
+Time: 08:26
+Location: GREELEY, COLORADO
+Event type: Struck by other falling object  n.e.c.
+Nature of injury: Nonfatal 'crushing' injuries
+Narrative: An employee was standing by while 110-inch oil and gas pipes were being loaded onto a gooseneck trailer. Some pipes fell from the trailer and one of them landed on the employee's left ankle, crushing it.
+
+ID: 20081
+Date: 2024-06-01
+Time: 13:57
+Location: AUSTIN, TEXAS
+Event type: Contact with hot objects or substances
+Nature of injury: Thermal burns  degree unspecified
+Narrative: An employee was transferring molten aluminum into a sow (mold). Condensation dripped from a pipe located above the area into the sow as it was staged to fill. When the molten aluminum came into contact with the water, the molten aluminum reacted and was released into the air, contacting the employe…
+
+ID: 20082
+Date: 2024-06-02
+Time: 05:03
+Location: DELAND, FLORIDA
+Event type: Fall on same level due to slip or trip
+Nature of injury: Traumatic injuries or exposures  unspecified
+Narrative: An employee was walking to their car, tripped over the concrete parking stop, and fell to the ground. She injured her right wrist, left shoulder and right knee. She also had a bruise on her forehead.
+
+ID: 20083
+Date: 2024-06-02
+Time: 09:30
+Location: FRESH MEADOWS, NEW YORK
+Event type: Other fall to lower level  less than 6 feet
+Nature of injury: Fractures
+Narrative: An employee was descending the stairs when they tripped on the bottom steps and fell, sustained a fractured ankle and knee.
+
+ID: 20084
+Date: 2024-06-04
+Time: 20:56
+Location: BARTONVILLE, ILLINOIS
+Event type: Struck by other falling object  n.e.c.
+Nature of injury: Fractures
+Narrative: A fork truck was being used to pick up three stacked metal shipping racks. As the offset racks were lifted, the racks fell onto an employee who was cleaning out tubs. The employee suffered a broken shoulder blade and three broken ribs, and they were hospitalized.
+
+ID: 20085
+Date: 2024-06-09
+Time: 06:32
+Location: AMARILLO, TEXAS
+Event type: Fall on same level due to slip or trip
+Nature of injury: Fractures
+Narrative: An employee was walking when they tripped and fell on the floor. The employee sustained a broken knee.
+
+ID: 20086
+Date: 2024-06-10
+Time: 21:17
+Location: HOUSTON, TEXAS
+Event type: Nonroadway noncollision  fall or jump from and struck by moving vehicle
+Nature of injury: Cuts, lacerations, punctures without injury to internal structures
+Narrative: An employee was operating a zero-turn mower on a slope next to a retention pond when the mower slipped on the wet grass and slid into the pond. He jumped off the mower and his foot made contact with the mowing deck, resulting in a laceration to his right foot.
+
+ID: 20087
+Date: 2024-06-15
+Time: 03:01
+Location: HOUSTON, TEXAS
+Event type: Struck by other falling object  n.e.c.
+Nature of injury: Fractures
+Narrative: Twenty sheets of sheetrock were leaning against a wall. An employee walked by and the sheetrock fell onto their left leg and fractured it.
+
+ID: 20088
+Date: 2024-06-15
+Time: 06:43
+Location: GRANVILLE, NEW YORK
+Event type: Struck by running powered equipment  irregular movement, kick back
+Nature of injury: Amputations, avulsions, enucleations  unspecified
+Narrative: An employee was cutting wood with a circular saw. The saw kicked back and amputated the tip of the employee's left middle finger.
+
+ID: 20089
+Date: 2024-06-16
+Time: 19:53
+Location: OZARK, ALABAMA
+Event type: Fall on same level due to slip or trip
+Nature of injury: Traumatic injuries or exposures  unspecified
+Narrative: An employee was retrieving a bucket of paint, tripped and fell to the concrete floor. The employee sustained a head injury.
+
+ID: 20090
+Date: 2024-06-18
+Time: 09:13
+Location: TRENTON, NEW JERSEY
+Event type: Struck by propelled, falling, or suspended object  unspecified
+Nature of injury: Traumatic injuries or exposures  unspecified
+Narrative: An employee was trying to open a dock door when they were struck by a door clip, resulting in a left eye injury.
+
+ID: 20091
+Date: 2024-06-19
+Time: 13:12
+Location: TERMINAL ISLAND, CALIFORNIA
+Event type: Pedestrian struck by vehicle or object propelled by another vehicle in nonroadway area
+Nature of injury: Fractures
+Narrative: An employee was onboard a vessel moving cargo in the hold when materials fell from a forklift onto her right foot. The employee suffered a fractured foot and sustained a laceration. She was hospitalized.
+
+ID: 20092
+Date: 2024-06-20
+Time: 01:28
+Location: KETTERING, OHIO
+Event type: Fall while sitting
+Nature of injury: Fractures
+Narrative: An employee tripped while sitting and fell to the ground. The employee suffered a facial laceration and a broken neck vertebra.
+
+ID: 20093
+Date: 2024-06-23
+Time: 21:40
+Location: HAZEL CREST, ILLINOIS
+Event type: Exposure through intact tissue
+Nature of injury: Chemical burns, corrosions  degree unspecified
+Narrative: An employee was washing a tank wagon. They opened a pressurized vessel and were sprayed with sodium hydroxide, resulting in burns.
+
+ID: 20094
+Date: 2024-06-24
+Time: 10:46
+Location: ROBERTSDALE, ALABAMA
+Event type: Pedestrian incidents involving motorized land vehicles, n.e.c.
+Nature of injury: Fractures
+Narrative: An employee was loading a scissor lift onto a trailer when the ramp on the trailer broke and the scissor lift fell over. The employee jumped out of the way and his right femur was fractured.
+
+ID: 20095
+Date: 2024-06-25
+Time: 00:19
+Location: IRVING, TEXAS
+Event type: Struck by running powered equipment  during maintenance, cleaning, testing
+Nature of injury: Cuts, lacerations, punctures without injury to internal structures
+Narrative: An employee was cleaning a deli slicer with a rag. The slicer caught the rag and pulled the employee's finger into the slicer, cutting it.
+
+ID: 20096
+Date: 2024-06-27
+Time: 19:43
+Location: ALLSTON, MASSACHUSETTS
+Event type: Slip, trip, stumble while stepping between levels
+Nature of injury: Fractures
+Narrative: An employee fell on stairs while trying to enter a residence. She suffered a broken left shoulder and right wrist and was hospitalized.
+
+ID: 20097
+Date: 2024-06-29
+Time: 03:04
+Location: KANSAS CITY, KANSAS
+Event type: Struck by falling object  unspecified
+Nature of injury: Amputations involving bone loss
+Narrative: An employee was changing out grates on metal shredding equipment. His anvil came loose from his position and fell, striking his hip and pinning his right hand against a plate collector. His right index and middle fingers were amputated.
+
+ID: 20098
+Date: 2024-07-02
+Time: 06:30
+Location: HOMESTEAD, FLORIDA
+Event type: Bite or sting  insects, "bugs"
+Nature of injury: Allergic and irritant dermatitis  acute
+Narrative: An employee was engaged in landscaping activities and was stung by about 300 bees. The employee was hospitalized with pain and swelling over their face, neck, back, arms, and hands.
+
+ID: 20099
+Date: 2024-07-03
+Time: 15:45
+Location: HAMBURG, ARKANSAS
+Event type: Other fall to lower level  unspecified
+Nature of injury: Concussions
+Narrative: An employee was climbing up onto a loader when he fell and struck his head, resulting in a concussion.
+
+ID: 20100
+Date: 2024-07-04
+Time: 07:36
+Location: MERCEDES, TEXAS
+Event type: Fall on same level due to slip or trip
+Nature of injury: Fractures
+Narrative: The injured employee was helping another warehouse employee move some items with a pallet jack. When the injured employee took a step back, he tripped and fell backward, landing on his right leg. The employee was hospitalized for a fractured ankle.
+
+ID: 20101
+Date: 2024-07-07
+Time: 04:56
+Location: NEW LIMERICK, MAINE
+Event type: Struck by running powered equipment  during maintenance, cleaning, testing
+Nature of injury: Amputations, avulsions, enucleations  unspecified
+Narrative: An employee was clearing a jam in the strapping machine when the machine caused a partial amputation of his left index finger.
+
+ID: 20102
+Date: 2024-07-10
+Time: 06:47
+Location: JACKSONVILLE, FLORIDA
+Event type: Struck by running powered equipment  n.e.c.
+Nature of injury: Cuts, lacerations, punctures without injury to internal structures
+Narrative: A crew was moving a radial stacker. One of them was moving an electric cable when an excavator struck his abdomen with its teeth. He was hospitalized with a puncture wound to the left side of the abdomen that resulted in damage to muscle tissue.
+
+ID: 20103
+Date: 2024-07-10
+Time: 16:38
+Location: MIDLAND, TEXAS
+Event type: Struck by dislodged or detached object(s)
+Nature of injury: Amputations, avulsions, enucleations  unspecified
+Narrative: An employee was replacing a bolt on a scissor lift. A rail fell from the scissor lift and lacerated a finger on his right hand, resulting in the amputation of the fingertip.
+
+ID: 20104
+Date: 2024-07-13
+Time: 06:16
+Location: ORLANDO, FLORIDA
+Event type: Other fall to lower level  unspecified
+Nature of injury: Traumatic injuries or exposures  unspecified
+Narrative: An employee had been preparing a unit at an apartment complex. He was walking down a flight of stairs when he fell to the floor and injured his leg.
+
+ID: 20105
+Date: 2024-07-13
+Time: 23:25
+Location: HORSEHEADS, NEW YORK
+Event type: Struck by falling object  unspecified
+Nature of injury: Fractures
+Narrative: A crew was dismantling an automated storage unit. A piece of the unit fell on an employee's head, causing a laceration and a skull fracture. The employee was hospitalized.
+
+ID: 20106
+Date: 2024-07-14
+Time: 23:15
+Location: VENICE, FLORIDA
+Event type: Compressed between running equipment and other object(s)
+Nature of injury: Cuts, lacerations, punctures without injury to internal structures
+Narrative: An employee was installing an electrical box when they became pinned between the bucket of an excavator and the electrical fiber box. The employee sustained a laceration to their left inner leg.
+
+ID: 20107
+Date: 2024-07-15
+Time: 04:49
+Location: STERLING, ILLINOIS
+Event type: Struck by running powered equipment  during maintenance, cleaning, testing
+Nature of injury: Amputations, avulsions, enucleations  unspecified
+Narrative: An employee was conducting service on a bearing insert machine. A proximity sensor activated, causing the machine to cycle. A cylinder came down on the employee's finger resulting in a partial amputation. The machine was energized at the time.
+
+ID: 20108
+Date: 2024-07-21
+Time: 09:29
+Location: BELOIT, WISCONSIN
+Event type: Other fall to lower level  6 to 30 feet
+Nature of injury: Fractures
+Narrative: An employee was preparing the mezzanine for painting and was laying plastic on the concrete floor. They noticed a piece of plywood lying on the mezzanine floor and lifted the plywood to lay plastic down. The employee then fell approximately 12 feet through the floor opening the plywood was covering…
+
+ID: 20109
+Date: 2024-07-22
+Time: 04:51
+Location: GARLAND, TEXAS
+Event type: Fall to lower level from collapsing structure or equipment  unspecified
+Nature of injury: Fractures and soft tissue injuries
+Narrative: An employee was on a six-foot ladder to inspect the mounting bracket for a rollup door. As the employee was adjusting the position of the bracket, the ladder pushed out from under the employee and the employee fell to the ground, breaking their left arm and dislocating their right shoulder.
+
+ID: 20110
+Date: 2024-07-25
+Time: 18:31
+Location: COOSA PINES, ALABAMA
+Event type: Struck by rolling, sliding, or shifting objects non-running
+Nature of injury: Amputations, avulsions, enucleations  unspecified
+Narrative: An employee was unloading tubing and removed the packing slip for one of the tubes. While removing the packing slip, the tube shifted and came down on the employee's little finger resulting in surgical amputation of the fingertip.
+
+ID: 20111
+Date: 2024-07-28
+Time: 01:42
+Location: HOUSTON, TEXAS
+Event type: Collision with stationary object, nonroadway
+Nature of injury: Amputations, avulsions, enucleations  unspecified
+Narrative: An employee was loading a directional drill unit onto a trailer when their finger was caught between the directional drill unit and the trailer. The employee's finger was partially amputated.
+
+ID: 20112
+Date: 2024-07-28
+Time: 12:13
+Location: ROSENBERG, TEXAS
+Event type: Collision with stationary object, nonroadway
+Nature of injury: Fractures and soft tissue injuries
+Narrative: An employee was operating a tugger when their right foot contacted a pallet. The employee sustained an open fracture and dislocation of the foot.
+
+ID: 20113
+Date: 2024-07-31
+Time: 16:31
+Location: BROOKLYN, NEW YORK
+Event type: Nonroadway noncollision  vehicle overturn
+Nature of injury: Traumatic injuries or exposures  unspecified
+Narrative: An employee was operating an excavator on top of an unprocessed pile of construction and demolition waste. The machine tipped over and the employee suffered a back injury.
+
+ID: 20114
+Date: 2024-08-03
+Time: 07:15
+Location: WALLKILL, NEW YORK
+Event type: Caught, entangled in running powered equipment  normal operation
+Nature of injury: Amputations involving bone loss
+Narrative: An employee was working with a metal shear and amputated their right middle finger.
+
+ID: 20115
+Date: 2024-08-03
+Time: 23:13
+Location: KANSAS CITY, MISSOURI
+Event type: Fall on same level resulting in exposure or contact
+Nature of injury: Amputations, avulsions, enucleations  unspecified
+Narrative: An employee was troubleshooting a machine when he slipped and went to brace himself. His hand entered the machine and the blade contacted his finger, resulting in a fingertip amputation.
+
+ID: 20116
+Date: 2024-08-04
+Time: 08:36
+Location: MIAMI, FLORIDA
+Event type: Nonroadway collision with other vehicle(s) moving and standing vehicle
+Nature of injury: Cuts, lacerations, punctures without injury to internal structures
+Narrative: An employee was operating a stand-up forklift to transport a pallet and collided with a stationary forklift. The employee sustained a laceration to the left foot and was hospitalized.
+
+ID: 20117
+Date: 2024-08-05
+Time: 06:54
+Location: PASADENA, TEXAS
+Event type: Struck by running powered equipment  during maintenance, cleaning, testing
+Nature of injury: Amputations, avulsions, enucleations  unspecified
+Narrative: An employee was clearing strips of plastic that had jammed in a dicer. The blade caught the employee's cut-resistant glove, pulling their hand into the cutter and amputating the tips of their right ring and little fingers. The fingertips were reattached at the hospital.
+
+ID: 20118
+Date: 2024-08-05
+Time: 13:30
+Location: PLATTEVILLE, WISCONSIN
+Event type: Fall on same level due to slip or trip
+Nature of injury: Fractures
+Narrative: An employee was walking across the warehouse floor when he fell and struck his head on the concrete floor, resulting in a skull fracture.
+
+ID: 20119
+Date: 2024-08-06
+Time: 03:38
+Location: NORWALK, OHIO
+Event type: Collapse, engulfment  n.e.c.
+Nature of injury: Fractures
+Narrative: An employee dropped a marker behind a stack of drywall. While retrieving the marker, the stack of drywall fell and knocked him to the ground. The drywall landed on his right foot and ankle, resulting in an ankle fracture.
+
+ID: 20120
+Date: 2024-08-07
+Time: 10:49
+Location: BUFORD, GEORGIA
+Event type: Fall on same level due to slip or trip
+Nature of injury: Fractures
+Narrative: An employee slipped and fell on the floor, resulting in a fracture to their right wrist.
+
+ID: 20121
+Date: 2024-08-08
+Time: 17:41
+Location: BEAVER FALLS, NEW YORK
+Event type: Struck by running powered equipment  during maintenance, cleaning, testing
+Nature of injury: Fractures
+Narrative: An employee was unjamming paper from calendar stack rollers when their hands became stuck in the rollers and they sustained a broken left wrist and arm.
+
+ID: 20122
+Date: 2024-08-09
+Time: 19:14
+Location: FAYETTEVILLE, ARKANSAS
+Event type: Other fall to lower level  unspecified
+Nature of injury: Fractures
+Narrative: An employee was loading freight. They went to push the freight while standing on the forks of a forklift. The employee fell off the forks and struck the forks, sustaining broken ribs and a laceration behind an ear.
+
+ID: 20123
+Date: 2024-08-12
+Time: 20:42
+Location: GRANBY, COLORADO
+Event type: Collision with stationary object, nonroadway
+Nature of injury: Multiple severe wounds and internal injuries
+Narrative: An employee was using a forklift to move pallets near a dumpster. While backing up, the forklift slid on ice and the employee's right hand was pinched between the dumpster and the roll cage, resulting in a partial degloving and broken bones. The injuries required surgery.
+
+ID: 20124
+Date: 2024-08-13
+Time: 12:23
+Location: KANSAS CITY, MISSOURI
+Event type: Struck by rolling, sliding, or shifting objects non-running
+Nature of injury: Cuts, lacerations, punctures without injury to internal structures
+Narrative: An employee was moving pieces of metal from a bin that was on the floor and stacking them on the arm to be stamped. As the employee reached to get more pieces from the bin, the stacked pieces of metal on the arm slipped and cut the employee's upper right arm.
+
+ID: 20125
+Date: 2024-08-19
+Time: 15:32
+Location: WARREN, OHIO
+Event type: Nonroadway collision with other vehicle(s) moving and standing vehicle
+Nature of injury: Fractures
+Narrative: An employee was backing up a standing powered industrial vehicle (PIV) when it collided with the front of a parked PIV. One of the forks from the parked PIV struck their right lower leg, resulting in a fractured right tibia.
+
+ID: 20126
+Date: 2024-08-20
+Time: 00:50
+Location: EL PASO, TEXAS
+Event type: Struck by running powered equipment  during maintenance, cleaning, testing
+Nature of injury: Amputations, avulsions, enucleations  unspecified
+Narrative: An employee was working on a cutter machine and had an issue with the cutter block. The employee was attempting to correct the issue when the tip of their right little finger was amputated by the machine.
+
+ID: 20127
+Date: 2024-08-21
+Time: 04:03
+Location: CARTHAGE, MISSOURI
+Event type: Struck by running powered equipment  during maintenance, cleaning, testing
+Nature of injury: Amputations, avulsions, enucleations  unspecified
+Narrative: An employee was operating a wire drawer in the wire drawing department to make a spool of single-strain wire. The spool malfunctioned and began to double wrap. The employee stopped the machine and applied tension to get it in place when their hand contacted the jog bar. This resulted in amputation…
+
+ID: 20128
+Date: 2024-08-22
+Time: 01:55
+Location: GRAND LAKE, COLORADO
+Event type: Fall on same level due to slip or trip
+Nature of injury: Fractures
+Narrative: An employee was hiking out from a maintenance operation when they slipped on the dirt trail and fell. The employee sustained a tibial plateau fracture.
+
+ID: 20129
+Date: 2024-08-23
+Time: 03:34
+Location: AINSWORTH, NEBRASKA
+Event type: Struck by rolling powered vehicle or machinery
+Nature of injury: Amputations involving bone loss
+Narrative: After washing a feed truck in a wash bay, an employee backed the truck up to clean the wash bay floor. It then rolled forward and pinned him against a wall. He suffered a leg injury resulting in the amputation of the leg.
+
+ID: 20130
+Date: 2024-08-26
+Time: 14:33
+Location: MIDDLEBURG, FLORIDA
+Event type: Struck against stationary object while rising, lowering
+Nature of injury: Concussions
+Narrative: An employee bent over and hit their head on a cabinet door, resulting in a concussion and hospitalization.
+
+ID: 20131
+Date: 2024-08-26
+Time: 20:19
+Location: ROCK PORT, MISSOURI
+Event type: Other fall to lower level  less than 6 feet
+Nature of injury: Intracranial injuries with skull fractures
+Narrative: An employee was completing inventory while standing on a stool when her legs gave out and she fell backward. The employee struck her head on the corner of a safe, resulting in a skull fracture and brain bleed. The employee was hospitalized.
+
+ID: 20132
+Date: 2024-08-28
+Time: 18:40
+Location: JACKSONVILLE, FLORIDA
+Event type: Fall on same level due to slip or trip
+Nature of injury: Fractures
+Narrative: An employee was walking in the warehouse while carrying a pallet between two aisles of pallets, tripped on the end of a pallet, and fell to the concrete floor. The employee sustained a left hip fracture and a left elbow fracture.
+
+ID: 20133
+Date: 2024-08-30
+Time: 14:35
+Location: LAFAYETTE, COLORADO
+Event type: Event or exposure  unspecified
+Nature of injury: Amputations, avulsions, enucleations  unspecified
+Narrative: An employee was moving metal repair parts from the ground to a vehicle. The metal shifted in transit and amputated the employee's left middle fingertip.
+
+ID: 20134
+Date: 2024-09-02
+Time: 16:05
+Location: DENISON, TEXAS
+Event type: Struck by other falling object  n.e.c.
+Nature of injury: Amputations involving bone loss
+Narrative: An employee was using a hoist to lower a steel pallet when it slipped from the hook and fell on the employee's left hand. His middle, ring, and little fingers were crushed and amputated.
+
+ID: 20135
+Date: 2024-09-05
+Time: 00:33
+Location: DOWNERS GROVE, ILLINOIS
+Event type: Hitting, kicking, beating by other person while providing medical or custodial care
+Nature of injury: Injuries to the brain, spinal cord and severe wounds, internal injuries
+Narrative: A social worker was speaking to a patient. The patient stood up, punched her in the face, pushed her down and against a cart, and then punched her three more times. The social worker sustained a head laceration, an intracranial hemorrhage, and a fractured spine. She was hospitalized.
+
+ID: 20136
+Date: 2024-09-06
+Time: 03:23
+Location: AMARILLO, TEXAS
+Event type: Caught or wedged between objects  nonrunning
+Nature of injury: Amputations, avulsions, enucleations  unspecified
+Narrative: An employee was removing a pin that was holding together a bucket and a hydraulic cylinder on a skid steer by using a hammer and a hole punch. When the pin was pushed out, the bucket shifted causing the hole punch to move and pinch their left ring finger. They sustained an amputation to the fingert…
+
+ID: 20137
+Date: 2024-09-07
+Time: 23:34
+Location: TAMPA, FLORIDA
+Event type: Contact with hot objects or substances
+Nature of injury: Thermal burns  degree unspecified
+Narrative: An employee was clearing a jam in a plastic molding machine. When the stuck plastic came loose, hot plastic struck the employee in the face and caused burns.
+
+ID: 20138
+Date: 2024-09-08
+Time: 02:40
+Location: BRONX, NEW YORK
+Event type: Struck by running powered equipment  during maintenance, cleaning, testing
+Nature of injury: Amputations involving bone loss
+Narrative: An employee was cleaning the rotary valve on a grinder. He went to use a scraper to remove accumulation from shredding when the machine caught his right hand. The machine amputated three fingers and damaged the fourth. He required surgery. The machine was not locked out/tagged out at the time.
+
+ID: 20139
+Date: 2024-09-11
+Time: 02:24
+Location: ELYSBURG, PENNSYLVANIA
+Event type: Vehicle struck by falling or flying object(s), nonroadway
+Nature of injury: Fractures
+Narrative: Two employees were driving groundskeeping mowers to cut the grass on a golf course. As the two mowers passed each other, one mower struck and threw a golf ball into the right leg of the employee operating the second mower. The injured employee was hospitalized with two fractures in their lower righ…
+
+ID: 20140
+Date: 2024-09-11
+Time: 07:06
+Location: EAST SYRACUSE, NEW YORK
+Event type: Pedestrian struck by vehicle in nonroadway area  unspecified
+Nature of injury: Fractures
+Narrative: An employee was putting salt underneath a jackknifed flatbed truck, when the trailer struck her and knocked her to the ground. This resulted in fractures to her upper right extremities and ribs.
+
+ID: 20141
+Date: 2024-09-18
+Time: 20:08
+Location: KINGSTON, PENNSYLVANIA
+Event type: Fall on same level due to slip or trip
+Nature of injury: Fractures
+Narrative: An employee tripped over a call bell wire that was on the floor and fell to the ground, resulting in a fractured hip.
+
+ID: 20142
+Date: 2024-09-19
+Time: 16:48
+Location: DENTON, TEXAS
+Event type: Exposure to environmental heat  unspecified
+Nature of injury: Effects of heat  unspecified
+Narrative: An employee was working in shipping when they experienced heat illness, resulting in hospitalization.
+
+ID: 20143
+Date: 2024-09-22
+Time: 14:41
+Location: COLUMBUS, OHIO
+Event type: Fall to lower level from collapsing structure or equipment  6 to 30 feet
+Nature of injury: Fractures and soft tissue injuries
+Narrative: An employee was cleaning broken-up concrete off a bridge deck. He stepped out on a wood deck that was supported by bridge hangers. The bridge hangers at this area of the deck failed and the deck fell. The employee fell 26 feet to the ground below the bridge. The employee sustained fractures to thei…
+
+ID: 20144
+Date: 2024-09-24
+Time: 01:33
+Location: FORT WORTH, TEXAS
+Event type: Exposure to environmental heat  outdoor
+Nature of injury: Heat stroke, syncope
+Narrative: While bending over to deliver a package, a mail carrier passed out due to heat. The employee was hospitalized with injury due to heat and dehydration.
+
+ID: 20145
+Date: 2024-09-25
+Time: 23:18
+Location: OKLAHOMA CITY, OKLAHOMA
+Event type: Fall on same level due to slip or trip
+Nature of injury: Fractures
+Narrative: An employee tripped over a sign that had fallen over at the entrance door and fell, resulting in a broken hip.
+
+ID: 20146
+Date: 2024-09-27
+Time: 11:14
+Location: BRIDGETON, MISSOURI
+Event type: Fall on same level  n.e.c.
+Nature of injury: Fractures
+Narrative: An employee was removing a walkie pallet jack from a pallet in the freezer. As he was dislodging the pallet jack forks that were stuck under the wood pallet, he lost his footing and was spun around landing on the concrete floor underneath the racking. The employee sustained a fractured left hip.
+
+ID: 20147
+Date: 2024-09-30
+Time: 00:59
+Location: BELMONT, MAINE
+Event type: Struck by falling object  unspecified
+Nature of injury: Nonfatal 'crushing' injuries
+Narrative: An employee was preparing to tow a vehicle. The towing chain slipped, and when the employee went to grab it, the car slipped and fell on the employee's arm, resulting in a crushing injury.
+
+ID: 20148
+Date: 2024-10-06
+Time: 02:04
+Location: BROOKLYN, NEW YORK
+Event type: Caught or wedged between objects  nonrunning
+Nature of injury: Amputations, avulsions, enucleations  unspecified
+Narrative: An employee was placing a prefabricated structure onto stanchions. As he was tapping the structure with a hammer to align it with the stanchions, his left thumb and index finger were crushed underneath the structure. The employee sustained an amputation to the fingers and was hospitalized.
+
+ID: 20149
+Date: 2024-10-06
+Time: 14:18
+Location: ALPHARETTA, GEORGIA
+Event type: Fall on same level due to slip or trip
+Nature of injury: Fractures
+Narrative: An employee was walking through the warehouse to check orders. They tripped on plastic wrap on a pallet and fell to the floor sustaining a fractured hip.
+
+ID: 20150
+Date: 2024-10-10
+Time: 09:38
+Location: BUTNER, NORTH CAROLINA
+Event type: Caught, entangled in running powered equipment  normal operation
+Nature of injury: Amputations involving bone loss
+Narrative: An employee was operating a snap machine. The machine activated while his left index finger was between its upper press fixture and the lower die holder, and he suffered a skin avulsion with bone damage. He underwent a medical amputation of a portion of the left index finger.
+
+ID: 20151
+Date: 2024-10-11
+Time: 12:43
+Location: SAN ANTONIO, TEXAS
+Event type: Fall on same level  n.e.c.
+Nature of injury: Fractures
+Narrative: An employee and a co-worker were assessing and attempting to move rental vehicles when a car door opened and struck the employee. The employee then fell to the ground and suffered a fractured hip.
+
+ID: 20152
+Date: 2024-10-12
+Time: 02:42
+Location: LAKEWOOD, COLORADO
+Event type: Fall on same level due to slip or trip
+Nature of injury: Fractures
+Narrative: An employee was carrying two bags of trash while walking between two cars in the parking lot. The employee slipped on a patch of ice and fell, suffering a fractured left hip and femur.
+
+ID: 20153
+Date: 2024-10-12
+Time: 06:55
+Location: SAINT PETERSBURG, FLORIDA
+Event type: Fall on same level due to slip or trip
+Nature of injury: Traumatic injuries or exposures  unspecified
+Narrative: An employee was walking in the office when she tripped and fell, resulting in a hip injury. The employee was hospitalized.
+
+ID: 20154
+Date: 2024-10-12
+Time: 14:10
+Location: GREEN BAY, WISCONSIN
+Event type: Struck by running powered equipment  n.e.c.
+Nature of injury: Amputations, avulsions, enucleations  unspecified
+Narrative: An employee was cutting the rear quarter panel window on an SUV in a parking lot utilizing a non-powered glass cutter and a powered drill. The employee's finger was between the slack line and the window when the line tightened, causing the amputation of their right ring fingertip.
+
+ID: 20155
+Date: 2024-10-13
+Time: 10:34
+Location: BATON ROUGE, LOUISIANA
+Event type: Contact with other person, nonviolent or intent unknown  n.e.c.
+Nature of injury: Fractures
+Narrative: The injured employee collided with another person in a hallway. The employee fell backward, landing on the floor and suffering a broken left humerus.
+
+ID: 20156
+Date: 2024-10-14
+Time: 05:21
+Location: HANNIBAL, MISSOURI
+Event type: Contact incidents  unspecified
+Nature of injury: Amputations, avulsions, enucleations  unspecified
+Narrative: An employee was reinstalling a track on a bulldozer. A chain had been used to position the track; with the track in position, the power had been shut off and the track had been secured with a block. As the employee was preparing to correct a slight misalignment using a pry bar, he took hold of the…
+
+ID: 20157
+Date: 2024-10-18
+Time: 00:17
+Location: DALLAS, TEXAS
+Event type: Contact with hot objects or substances
+Nature of injury: Thermal burns  degree unspecified
+Narrative: An employee was removing boiling water from the stovetop when they dropped it and the water spilled onto their lower body, resulting in burns.
+
+ID: 20158
+Date: 2024-10-18
+Time: 15:14
+Location: ROCKFORD, ILLINOIS
+Event type: Caught, entangled in running powered equipment  normal operation
+Nature of injury: Amputations involving bone loss
+Narrative: An employee was bending metal in a brake press when the press amputated their right thumb.
+
+ID: 20159
+Date: 2024-10-19
+Time: 12:33
+Location: DESTREHAN, LOUISIANA
+Event type: Struck by other falling object  n.e.c.
+Nature of injury: Cuts, lacerations, punctures without injury to internal structures
+Narrative: An employee was installing steel siding when a piece became stuck and the rigging was pulled from the siding. A panel of the siding (approximately 28" x 12' and 28 pounds) then fell and struck them in the right arm, resulting in a laceration to the right bicep and brachial artery.
+
+ID: 20160
+Date: 2024-10-20
+Time: 02:57
+Location: NORTH LITTLE ROCK, ARKANSAS
+Event type: Struck by other falling object  n.e.c.
+Nature of injury: Fractures
+Narrative: Employees were loading a switchgear cabinet into an elevated room with a telehandler when the cabinet started wobbling/swaying. The cabinet fell from the forks of the telehandler and struck an employee that was spotting for the telehandler, resulting in three fractured ribs, a fractured pelvis, and…
+
+ID: 20161
+Date: 2024-10-20
+Time: 12:59
+Location: WESLEY CHAPEL, FLORIDA
+Event type: Struck by dislodged or detached object(s)
+Nature of injury: Cuts, lacerations, punctures without injury to internal structures
+Narrative: An employee was cutting a pipe with a circular saw when the pipe pinched the blade and the blade shattered. A projectile from the blade struck the employee in the neck, lacerating him from the Adam's apple around to the ear.
+
+ID: 20162
+Date: 2024-10-21
+Time: 07:25
+Location: MILLEN, GEORGIA
+Event type: Struck by running powered equipment  unspecified
+Nature of injury: Cuts, lacerations, punctures without injury to internal structures
+Narrative: An employee was using a miter saw to install molding during construction of a new mobile home and sustained severe lacerations to their right arm and hand.
+
+ID: 20163
+Date: 2024-10-21
+Time: 09:30
+Location: BECKLEY, WEST VIRGINIA
+Event type: Overexertion while providing medical or custodial care
+Nature of injury: Fractures
+Narrative: An employee was lifting a patient weighing approximately 400 lbs. and fractured their L5 vertebra, requiring hospitalization.
+
+ID: 20164
+Date: 2024-10-21
+Time: 09:46
+Location: HAMPSHIRE, ILLINOIS
+Event type: Struck by running powered equipment  during maintenance, cleaning, testing
+Nature of injury: Amputations involving bone loss
+Narrative: An employee was testing the tension of a belt on a capping machine when his finger got pushed into the drive wheel, severing a portion of the finger above the fingernail. The employee sustained a partial amputation to his left middle finger from the first knuckle.
+
+ID: 20165
+Date: 2024-10-25
+Time: 20:44
+Location: VANDALIA, OHIO
+Event type: Fall on same level  unspecified
+Nature of injury: Fractures
+Narrative: An employee was walking at the front of the store when they fell, resulting in a hip fracture that required hospitalization.
+
+ID: 20166
+Date: 2024-10-28
+Time: 19:51
+Location: EVANS, GEORGIA
+Event type: Struck by running powered equipment  irregular movement, kick back
+Nature of injury: Amputations, avulsions, enucleations  unspecified
+Narrative: An employee was using a chipping hammer to remove asphalt from around a manhole cover. The hammer got stuck and an excavator operator attempted to remove the hammer using an excavator bucket. The employee reached down to help when the hammer engaged, causing the bucket to jump and pin the employee'…
+
+ID: 20167
+Date: 2024-10-29
+Time: 02:18
+Location: EASTLAKE, OHIO
+Event type: Contact incidents  unspecified
+Nature of injury: Amputations, avulsions, enucleations  unspecified
+Narrative: An employee was operating a wax die injection machine with the top of the die open. When the safety kickstand was released, the wax die mold's lid lowered onto their left index finger, resulting in a fingertip amputation.
+
+ID: 20168
+Date: 2024-10-30
+Time: 13:42
+Location: URBANA, ILLINOIS
+Event type: Other fall to lower level  unspecified
+Nature of injury: Fractures
+Narrative: An employee was using a cart with a short ladder on it to retrieve ornaments from the top shelf. The employee was descending the ladder when she missed a step and fell to the floor on her right side. The employee was hospitalized with a fractured femur.
+
+ID: 20169
+Date: 2024-11-01
+Time: 01:05
+Location: HAZELTON, IDAHO
+Event type: Nonroadway noncollision  vehicle overturn
+Nature of injury: Cuts, lacerations, punctures without injury to internal structures
+Narrative: An employee was driving a dump truck loaded with dirt on a canal bank when the truck tipped over, and objects inside of the truck caused lacerations to his head.
+
+ID: 20170
+Date: 2024-11-04
+Time: 17:57
+Location: MECHANICSBURG, PENNSYLVANIA
+Event type: Fall on same level due to slip or trip
+Nature of injury: Fractures and soft tissue injuries
+Narrative: An employee was walking on wood matting and fell, resulting in a fractured and dislocated left foot.
+
+ID: 20171
+Date: 2024-11-06
+Time: 13:45
+Location: BROOKSVILLE, FLORIDA
+Event type: Struck by falling part of vehicle or machine, still attached
+Nature of injury: Amputations, avulsions, enucleations  unspecified
+Narrative: An employee was lifting the hood of a tractor to jumpstart the battery when his hand slipped and the hood fell and struck his left hand, resulting in a partial amputation of the little finger.
+
+ID: 20172
+Date: 2024-11-07
+Time: 07:05
+Location: SECAUCUS, NEW JERSEY
+Event type: Fall on same level  unspecified
+Nature of injury: Fractures
+Narrative: An employee fell to the floor, resulting in fractured legs.
+
+ID: 20173
+Date: 2024-11-07
+Time: 12:20
+Location: BARTLETT, TEXAS
+Event type: Struck by other propelled object or substance  n.e.c.
+Nature of injury: Traumatic injuries or exposures  unspecified
+Narrative: Mulching equipment was being used to clear tall vegetation at a job site when the equipment encountered hidden wire in the brush. The wire entered the equipment and was projected out of it approximately 300 feet, striking the injured employee's left leg and resulting in an injury.
+
+ID: 20174
+Date: 2024-11-09
+Time: 20:54
+Location: MYRTLE BEACH, SOUTH CAROLINA
+Event type: Struck by suspended or swinging objects  n.e.c.
+Nature of injury: Amputations, avulsions, enucleations  unspecified
+Narrative: An employee was on the bed of a digger truck assisting the operator with moving a 30-foot pole from the rack on the digger truck to a dumpster for disposal. The employee placed a strap around the pole and attached it to the boom of the digger truck before guiding the pole to the dumpster. As the po…
+
+ID: 20175
+Date: 2024-11-11
+Time: 00:33
+Location: SCHENECTADY, NEW YORK
+Event type: Other fall to lower level  unspecified
+Nature of injury: Fractures
+Narrative: An employee was entering a basement window when they fell to the basement floor, breaking their elbow.
+
+ID: 20176
+Date: 2024-11-13
+Time: 12:02
+Location: ORLANDO, FLORIDA
+Event type: Caught or wedged between objects  nonrunning
+Nature of injury: Fractures
+Narrative: An employee was installing shelving. As they were sliding a metal pipe into the wooden shelving unit, the employee's hand was caught between the shelf support and the end of the pipe, resulting in a right index and middle finger fracture.
+
+ID: 20177
+Date: 2024-11-13
+Time: 14:13
+Location: BRIGHTON, COLORADO
+Event type: Other fall to lower level  less than 6 feet
+Nature of injury: Pinched nerve
+Narrative: An employee was hooking a trailer to his tractor when he stepped off the back of the truck and fell 3 feet to the ground. He landed on his back and sustained pinched nerves in his lower back.
+
+ID: 20178
+Date: 2024-11-16
+Time: 06:02
+Location: PUNTA GORDA, FLORIDA
+Event type: Overexertion while materials moving by hand
+Nature of injury: Sprains, strains, minor tears
+Narrative: An employee was attempting to move a portable heater and strained her back. The employee was hospitalized.
+
+ID: 20179
+Date: 2024-11-24
+Time: 19:15
+Location: PILESGROVE, NEW JERSEY
+Event type: Other fall to lower level  unspecified
+Nature of injury: Traumatic injuries or exposures  unspecified
+Narrative: An employee was working from a ladder to place items on a shelf when they fell off the ladder and sustained a right hip injury.
+
+ID: 20180
+Date: 2024-11-26
+Time: 08:54
+Location: DENVER, COLORADO
+Event type: Non-venomous animal bites  except "bugs"
+Nature of injury: Cuts, lacerations, punctures without injury to internal structures
+Narrative: An veterinarian was working on a sedated dog when the dog woke up and bit their face.
+
+ID: 20181
+Date: 2024-12-01
+Time: 09:12
+Location: MIDLAND, TEXAS
+Event type: Caught or wedged between objects  nonrunning
+Nature of injury: Amputations, avulsions, enucleations  unspecified
+Narrative: A rig was running in a hole with 2-3/8 drill string. The crew was utilizing the swivel to make up connections, and had modified the grabbing arm on the laydown machine utilizing dies on the grabbing arm. The drill string was not large enough for the grabbing arm to bite down on. The crew then used…
+
+ID: 20182
+Date: 2024-12-03
+Time: 01:48
+Location: PASCAGOULA, MISSISSIPPI
+Event type: Other fall to lower level  6 to 30 feet
+Nature of injury: Fractures
+Narrative: An employee was refilling the cab heater on a mobile crane. While beginning to pour diesel fuel into the upper cab heater tank, the employee fell 79 inches from the crane to the ground. The employee sustained a broken pelvis that required surgery.
+
+ID: 20183
+Date: 2024-12-04
+Time: 11:31
+Location: SANDUSKY, OHIO
+Event type: Struck by running powered equipment  unspecified
+Nature of injury: Amputations, avulsions, enucleations  unspecified
+Narrative: An employee was moving an air bar onto a winder when he was caught between the air-release mechanism and the air bar, resulting in a left index fingertip amputation.
+
+ID: 20184
+Date: 2024-12-04
+Time: 11:48
+Location: CRESTLINE, OHIO
+Event type: Struck by running powered equipment  during maintenance, cleaning, testing
+Nature of injury: Amputations, avulsions, enucleations  unspecified
+Narrative: An employee was performing maintenance on a pre-wash cold end washer. As he pushed down on the assembly so that it could be fastened in place his hand slipped downward into a chain and sprocket on the washer's conveyor. The equipment was not de-energized or locked out. His right index finger was ca…
+
+ID: 20185
+Date: 2024-12-05
+Time: 11:42
+Location: WESLEY CHAPEL, FLORIDA
+Event type: Other fall to lower level  6 to 30 feet
+Nature of injury: Fractures
+Narrative: While an employee was crossing over the span to get materials, he fell approximately 12 feet to a lower level and fractured his right wrist.
+
+ID: 20186
+Date: 2024-12-06
+Time: 19:58
+Location: SAN ANTONIO, TEXAS
+Event type: Other fall to lower level  unspecified
+Nature of injury: Fractures
+Narrative: An employee was descending a ladder when they misstepped and fell to the floor, resulting in a fractured ankle.
+
+ID: 20187
+Date: 2024-12-07
+Time: 11:40
+Location: DOVER, FLORIDA
+Event type: Struck by running powered equipment  during maintenance, cleaning, testing
+Nature of injury: Amputations involving bone loss
+Narrative: An employee was washing plastic tubes in the tank washroom near a belt and pulley system when his hand became caught in the rotating metallic parts of the system. The employee sustained the amputation of two fingers and lacerations to two fingers. The belt and pulley system was unguarded at the tim…
+
+ID: 20188
+Date: 2024-12-08
+Time: 13:17
+Location: MINOT, NORTH DAKOTA
+Event type: Struck by object dropped by person
+Nature of injury: Amputations involving bone loss
+Narrative: Two employees were lifting a hydraulic tank when the tank slipped and crushed the injured employee's right index finger against a trailer, resulting in an amputation of the finger and hospitalization.
+
+ID: 20189
+Date: 2024-12-08
+Time: 14:56
+Location: BRISTOL, PENNSYLVANIA
+Event type: Fall on same level due to slip or trip
+Nature of injury: Fractures
+Narrative: While walking an employee tripped and fell, resulting in a compound fracture to their right arm.
+
+ID: 20190
+Date: 2024-12-08
+Time: 15:03
+Location: KIRBYVILLE, TEXAS
+Event type: Other fall to lower level  unspecified
+Nature of injury: Fractures
+Narrative: An employee was on a ladder putting fuel pumps on a shelf when they lost their balance and fell to the floor. They sustained a right hip fracture.
+
+ID: 20191
+Date: 2024-12-12
+Time: 05:54
+Location: AURORA, OHIO
+Event type: Struck by running powered equipment  during maintenance, cleaning, testing
+Nature of injury: Multiple severe wounds and internal injuries
+Narrative: An employee set up the studs on a machine to prepare to run an order. The part was not level, causing the ram to bind during retraction. The employee's left glove got caught on the ram. This resulted in a thumb tip amputation and their left index finger was broken in multiple places.
+
+ID: 20192
+Date: 2024-12-13
+Time: 06:46
+Location: HOUSTON, TEXAS
+Event type: Pedestrian struck by vehicle in nonroadway area  unspecified
+Nature of injury: Fractures
+Narrative: An employee was walking near a freight dock when they were struck and run over by an 18-wheeler truck. The employee sustained a fractured foot, a fractured pelvis, and road rash.
+
+ID: 20193
+Date: 2024-12-14
+Time: 03:17
+Location: CROWLEY, TEXAS
+Event type: Exposure to electric arc
+Nature of injury: Electrocution, electric shock
+Narrative: An employee was monitoring a concrete pour from a commercial vehicle. The boom of the concrete pump truck contacted a 14.4 kV overhead powerline, causing an electric arc to travel back to the employee. The employee sustained an electric shock.
+
+ID: 20194
+Date: 2024-12-15
+Time: 18:11
+Location: ALLENTOWN, PENNSYLVANIA
+Event type: Slip, trip, stumble while stepping between levels
+Nature of injury: Fractures
+Narrative: An employee was exiting a school when he turned and fell off the curb, fracturing his hip.
+
+ID: 20195
+Date: 2024-12-16
+Time: 22:48
+Location: TAMPA, FLORIDA
+Event type: Ingestion of harmful substance
+Nature of injury: Multiple effects of poison, toxic, or allergenic exposure
+Narrative: An employee was handed a water bottle and drank liquid from it thinking the liquid was water. It was later determined that the bottle was filled with acetone. The employee began bleeding from his mouth, became ill, and was hospitalized.
+
+ID: 20196
+Date: 2024-12-19
+Time: 15:22
+Location: GORHAM, MAINE
+Event type: Pedestrian struck by vehicle in nonroadway area  unspecified
+Nature of injury: Fractures
+Narrative: An employee was walking to their vehicle to take a break when they were struck by a customer's car, resulting in a fractured lower right leg.
+
+ID: 20197
+Date: 2024-12-21
+Time: 16:31
+Location: SPRING, TEXAS
+Event type: Struck by falling part of vehicle or machine, still attached
+Nature of injury: Amputations involving bone loss
+Narrative: An employee was driving the water truck and spraying water when a third-party dump truck driver flagged him down asking for help. The dump truck driver's tailgate was in a bind with the screen that covers the truck bed. When the employee got up on the truck to help, the tailgate released and slamme…
+
+ID: 20198
+Date: 2024-12-24
+Time: 12:32
+Location: NORTH SYRACUSE, NEW YORK
+Event type: Struck by running powered equipment  unspecified
+Nature of injury: Amputations, avulsions, enucleations  unspecified
+Narrative: An employee was using a router when they sustained a fingertip amputation.
+
+ID: 20199
+Date: 2024-12-27
+Time: 02:34
+Location: SAINT PETERSBURG, FLORIDA
+Event type: Exposure to electric arc
+Nature of injury: Electrical burns  any degree
+Narrative: An employee was de-energizing a stand-alone three-phase 3,000-kVA transformer. The employee had opened a bay on the switchgear and removed the barrier board covering a 200-amp switch. The employee then used a 6-foot insulated work stick to open the fuse door. As soon as the top of the fuse door sep…
