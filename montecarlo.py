@@ -1,5 +1,8 @@
 """Monte Carlo for the multinomial range, % of mean bucket size."""
 import numpy as np, json
+from pathlib import Path
+SCRIPT_DIR = Path(__file__).parent
+OUTPUT_PATH = SCRIPT_DIR / "mc_results.json"
 rng = np.random.default_rng(20260429)
 N_VALUES = [50, 100, 200, 500, 1000, 2000]
 K_VALUES = [7, 12, 24]
@@ -17,5 +20,5 @@ for K in K_VALUES:
         approx = 100.0 * 2 * np.sqrt(2 * mu * np.log(K)) / mu
         results.append({"N":N,"K":K,"mu":mu,"mean_pct":m,"p95_pct":p95,"p_over_30":p30,"approx_pct":approx})
         print(f"{N:>6} {K:>4} {mu:>8.2f} {m:>8.1f} {p95:>8.1f} {p30:>9.3f} {approx:>9.1f}")
-with open("/home/claude/mc_results.json","w") as f:
+with open(OUTPUT_PATH, "w") as f:
     json.dump(results, f, indent=2)
