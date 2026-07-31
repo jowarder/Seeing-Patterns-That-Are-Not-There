@@ -1,9 +1,9 @@
 """
-Generate the experimental OSHA-derived dataset for Section 7.
+Generate the experimental OSHA-derived dataset 
 
 This script constructs a hybrid dataset:
   - Real OSHA Severe Injury Report (SIR) records from calendar year 2024
-    (employer, location, event type, narrative, etc.) — UNMODIFIED.
+    (employer, location, event type, narrative, etc.)
   - SYNTHETIC timestamps drawn from a homogeneous Poisson process,
     REPLACING the original EventDate.
 
@@ -34,8 +34,10 @@ Reproducibility: seed = 42 (numpy default_rng). The filter step is
 deterministic, so the same seed always yields the same N records.
 
 Usage:
-    1. Edit SOURCE_PATH and OUTPUT_PATH below to point at your files.
-    2. Click the Run Python File button in VS Code (or run `python poisson_osha_dataset.py`).
+
+    1. Download the OSHA SIR source CSV and place it next to this script
+       (or edit SOURCE_PATH below to point elsewhere).
+    2. Run `python poisson_osha_dataset.py`.
 
 Output columns:
     id, date, time, location, event_type, nature, narrative
@@ -52,11 +54,12 @@ import pandas as pd
 # ============================================================
 # EDIT THESE TWO PATHS BEFORE RUNNING
 # ============================================================
+SCRIPT_DIR = Path(__file__).parent
 # Path to the OSHA source CSV (the real dataset downloaded from OSHA)
-SOURCE_PATH = Path(r"C:\Users\rafin\Desktop\Osha Data Generation\January2015toAugust2025_osha_orginal.csv")
+SOURCE_PATH = SCRIPT_DIR / "January2015toAugust2025_osha_original.csv"
 
 # Path where the generated experiment dataset will be written
-OUTPUT_PATH = Path(r"C:\Users\rafin\Desktop\Osha Data Generation\osha_sir_locked.csv")
+OUTPUT_PATH = SCRIPT_DIR / "osha_sir_locked.csv"
 # ============================================================
 
 
