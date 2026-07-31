@@ -2,7 +2,7 @@
 
 Data, code, and trial-level coding for the paper:
 
-> Jowarder, R. A., J. Curry, B. Craig, and W. Zhu. 2026. "Seeing Patterns That Are Not There: How Frontier Large Language Models Fabricate Temporal Patterns in Poisson Safety Data." Submitted to the Transportation Research Record (TRR), August 2026.
+> Jowarder, R. A., J. Curry, B. Craig, and W. Zhu. 2026. "Seeing Patterns That Are Not There: Prompting and False Discovery in LLM Analysis of Safety Data." Submitted to the Transportation Research Record (TRR), August 2026.
 
 **Authors:** 
 
@@ -72,8 +72,8 @@ The 100% headline failure rate and all per-category percentages in Table 2 recon
 
 The OSHA SIR full dataset is publicly available at https://www.osha.gov/severe-injury-reports. To rebuild `osha_sir_locked.csv` from the source:
 
-1. Download the OSHA SIR file (the paper used the January 2015–August 2025 snapshot).
-2. Edit `SOURCE_PATH` and `OUTPUT_PATH` at the top of `poisson_osha_dataset.py` to point at your local copy and a writable output location.
+1. Download the OSHA SIR file (the paper used the January 2015–August 2025 snapshot) and rename it to `January2015toAugust2025_osha_original.csv`.
+2. Place the downloaded CSV next to `poisson_osha_dataset.py` (or edit `SOURCE_PATH` at the top of the script if you keep it elsewhere).
 3. Run `python poisson_osha_dataset.py`. With the original source file and seed 42, the output is byte-identical to the included `osha_sir_locked.csv`.
 
 Dependencies: NumPy, pandas, Python 3.9+.
