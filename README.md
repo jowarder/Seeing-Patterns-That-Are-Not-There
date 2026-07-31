@@ -2,10 +2,17 @@
 
 Data, code, and trial-level coding for the paper:
 
-> Jowarder, R. A., and J. Curry. 2026. "Seeing Patterns That Are Not There: How Frontier Large Language Models Fabricate Temporal Patterns in Poisson Safety Data." Submitted to the *Transportation Research Record* (TRR), August 2026.
+> Jowarder, R. A., J. Curry, B. Craig, and W. Zhu. 2026. "Seeing Patterns That Are Not There: How Frontier Large Language Models Fabricate Temporal Patterns in Poisson Safety Data." Submitted to the Transportation Research Record (TRR), August 2026.
 
-**Authors:** Rafiul Azim Jowarder (corresponding) and James Curry, Department of Industrial and Systems Engineering, Lamar University, Beaumont, TX, USA.
-**Contact:** rjowarder@lamar.edu — ORCID: https://orcid.org/0009-0004-2331-4472
+**Authors:** 
+
+Rafiul Azim Jowarder — Doctoral Student, Department of Industrial and Systems Engineering, Lamar University, 4400 MLK Boulevard, PO Box 10032, Beaumont, TX 77710, USA. Email: rjowarder@lamar.edu — ORCID: https://orcid.org/0009-0004-2331-4472
+
+James Curry, Ph.D. (Corresponding Author) — Department Chair and Professor, Department of Industrial and Systems Engineering, Lamar University, Cherry Engineering Building, Room 2000, 4400 MLK Boulevard, PO Box 10032, Beaumont, TX 77710, USA. Email: james.curry@lamar.edu
+
+Brian Craig, Ph.D. — Professor, Department of Industrial and Systems Engineering, Lamar University, Cherry Engineering Building, Room 2000, 4400 MLK Boulevard, PO Box 10032, Beaumont, TX 77710, USA. Email: craigbn@lamar.edu
+
+Weihang Zhu, Ph.D. — Professor and Program Coordinator, Department of Engineering Technology, University of Houston, 13850 University Blvd., Room 231, Sugar Land, TX 77479, USA. Email: wzhu21@central.uh.edu — ORCID: https://orcid.org/0000-0002-6092-1608
 
 ---
 
@@ -105,15 +112,12 @@ OSHA Severe Injury Report (SIR) full dataset, January 2015 – August 2025 snaps
 ---
 
 
-
-
-
 ## Contact
 
 For questions about the artifacts or paper, contact the corresponding author:
 
-Rafiul Azim Jowarder
-Department of Industrial and Systems Engineering, Lamar University
-4400 MLK Boulevard, PO Box 10032, Beaumont, TX 77710, USA
-Email: rjowarder@lamar.edu
-ORCID: https://orcid.org/0009-0004-2331-4472
+James Curry, Ph.D.
+Department Chair and Professor, Department of Industrial and Systems Engineering
+Lamar University, Cherry Engineering Building, Room 2000, 4400 MLK Boulevard, PO Box 10032, Beaumont, TX 77710, USA
+Email: james.curry@lamar.edu
+
